@@ -41,9 +41,7 @@ public abstract class HeavenlyBody {
     }
 
     @Override
-    public String toString() {
-        return this.key.name + ": " + this.key.bodyType + ", " + this.getOrbitalPeriod();
-    }
+    public String toString() { return this.key.name + ": " + this.key.bodyType + ", " + this.getOrbitalPeriod(); }
 
     @Override
     public final boolean equals(Object obj) {
@@ -58,9 +56,7 @@ public abstract class HeavenlyBody {
     }
 
     @Override
-    public final int hashCode() {
-        return this.key.hashCode();
-    }
+    public final int hashCode() { return this.key.hashCode(); }
 
     public static Key makeKey(String name, BodyTypes bodyType) { return new Key(name, bodyType); }
 
@@ -78,9 +74,7 @@ public abstract class HeavenlyBody {
         public BodyTypes getBodyType() { return bodyType; }
 
         @Override
-        public int hashCode() {
-            return this.name.hashCode() + 57 + this.getBodyType().hashCode();
-        }
+        public int hashCode() { return this.name.hashCode() + 57 + this.getBodyType().hashCode(); }
 
         @Override
         public boolean equals(Object obj) {
@@ -91,8 +85,6 @@ public abstract class HeavenlyBody {
         }
 
         @Override
-        public String toString() {
-            return this.name + ": " + this.bodyType;
-        }
+        public String toString() { return this.name + ": " + this.bodyType; }
     }
 }
