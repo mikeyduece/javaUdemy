@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6615e792-247b-4efc-b996-c25b2342e4bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFX.iml" afterDir="false" />
+    <list default="true" id="11f7dce3-14c9-4c96-bf63-a29473e43802" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/com/example/series/test/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFX/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/JavaFX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFX/JavaFX.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,7 +18,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="25T1iIck72r9Gj0QfwNbxjecDXU" />
+  <component name="ProjectId" id="25YWkhJPL3xg63LIpNR6NBLYOKF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -86,16 +81,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.example.series.test.Main" />
-      <module name="JavaFX" />
+      <module name="IO" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -107,11 +96,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6615e792-247b-4efc-b996-c25b2342e4bc" name="Changes" comment="" />
-      <created>1645536391284</created>
+      <changelist id="11f7dce3-14c9-4c96-bf63-a29473e43802" name="Changes" comment="" />
+      <created>1645704648011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1645536391284</updated>
+      <updated>1645704648011</updated>
     </task>
     <servers />
   </component>
